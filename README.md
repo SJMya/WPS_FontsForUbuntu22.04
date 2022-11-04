@@ -1,1 +1,3 @@
-# WPS_FontsForUbuntu22.04
+###Ubuntu22.04下安装WPS会提示字体缺失
+解决办法
+1.执行如下命令
