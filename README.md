@@ -1,0 +1,1 @@
+# WPS_FontsForUbuntu22.04
